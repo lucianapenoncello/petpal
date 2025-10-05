@@ -1,4 +1,4 @@
-package petpal;
+package com.petpal;
 
 import org.slf4j.LoggerFactory;
 
