@@ -8,7 +8,7 @@
 
 **Autora:** Luciana Penoncello  
 **Materia:** Seminario de Práctica Informática – 2025  
-**Institución:** [Nombre de tu instituto o universidad si querés incluirlo]  
+**Institución:** Universidad Siglo 21  
 
 </div>
 
@@ -25,8 +25,6 @@ El sistema permite registrar mascotas, configurar rutinas personalizadas y gener
 - Facilitar la **planificación y seguimiento** de rutinas para mascotas.  
 - Reducir olvidos y mejorar la organización del cuidado animal.  
 - Implementar una arquitectura modular escalable y segura.  
-- Aplicar el **Proceso Unificado de Desarrollo (PUD)** desde el análisis hasta la prueba.  
-- Consolidar las competencias de desarrollo adquiridas en la carrera.
 
 ---
 
@@ -38,8 +36,6 @@ La versión desarrollada constituye un **prototipo operacional**, con funcionali
 - Registro del estado de las tareas (completadas o pendientes).  
 - Consulta del historial de actividades.
 
-El modelo de datos está implementado en **MySQL** y documentado mediante **diagramas UML y ER**.
-
 ---
 
 ## ⚙️ Tecnologías utilizadas
@@ -48,29 +44,15 @@ El modelo de datos está implementado en **MySQL** y documentado mediante **diag
 | Lenguaje | Java 21 |
 | Framework | Spring Boot (Spring Data JPA, Web, Validation) |
 | Base de datos | MySQL 8 |
-| IDE | IntelliJ IDEA / Eclipse |
+| IDE | Eclipse |
 | Control de versiones | Git y GitHub |
-| Diagramas | PlantUML, Draw.io |
 | Metodología | Proceso Unificado de Desarrollo (PUD) |
 
----
-
-## 📊 Diagramas y documentación
-El repositorio incluye los siguientes artefactos:
-- `diagramas/` → diagramas UML, casos de uso y entidad–relación.  
-- `docs/` → entregas AP1 y AP2 en formato PDF.  
-- `petpal_schema.sql` → script de base de datos con tablas y consultas de ejemplo.  
-
----
-
-## 📚 Estado del proyecto
-Este trabajo corresponde a la **entrega final del Seminario de Práctica Informática**, dando cierre al ciclo de desarrollo académico.  
-Se completaron las etapas de **Análisis, Diseño, Implementación y Pruebas**, cumpliendo con los lineamientos del PUD y con los criterios de evaluación establecidos en la consigna.
 
 ---
 
 ## ✨ Autora
 **Luciana Penoncello**  
-📧 [luciana.penoncello@example.com](mailto:luciana.penoncello@example.com)  
-📍 Buenos Aires, Argentina  
+📧 [luciana.penoncello@gmail.com](mailto:luciana.penoncello@gmail.com)  
+📍 Berisso, Buenos Aires, Argentina  
 🔗 [Repositorio del proyecto](https://github.com/lucianapenoncello/petpal)
